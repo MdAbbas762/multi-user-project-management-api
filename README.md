@@ -125,6 +125,8 @@ The API follows a layered architecture:
 ---  
 
 ## 📂 Project Structure  
+
+```  
 project-root/ 
 │
 ├── controllers/        # Business logic  
@@ -141,6 +143,7 @@ project-root/
 ├── .env  
 ├── package.json  
 └── README.md  
+```  
 
 ---  
 
@@ -234,19 +237,24 @@ project-root/
 ## ▶️ Getting Started  
 
 ### 1. Clone the repository  
+
+```bash  
 git clone https://github.com/MdAbbas762/multi-user-project-management-api.git  
 
 cd project-management-rest-api  
-
----  
+```  
 
 ### 2. Install dependencies  
-npm install  
 
----  
+```bash  
+npm install  
+```  
 
 ### 3. Run the server  
+
+```bash 
 npm run dev  
+```  
 
 ---  
 
